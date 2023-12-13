@@ -21,5 +21,7 @@ accuracy is close to _**65%**_. because our information was scarce
 <br>
 **Joblib**
 <br>
+<br>
+<br>
 ![image](https://github.com/jamshid-ds/sales_prediction/assets/117648241/5d1b2bc7-0c6c-440b-b244-4e3b907995a5)
 
